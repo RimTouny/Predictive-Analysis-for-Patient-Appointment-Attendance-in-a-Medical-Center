@@ -1,4 +1,4 @@
-# **Predictive-Analysis-for-Patient-Appointment-Attendance-in-a-Medical-Center**
+# **Predictive-Analysis-for-Patient-Appointment-Attendance-in-a-Medical-Center-using R programming language**
 This project predicts patient attendance for medical appointments at Bay Clinic using 'medicalcentre.csv'. It employs SVM, Decision Trees, and DNN models, assessing accuracy, sensitivity, specificity, and conducting ROC analysis. The goal is to optimize resource utilization and financial stability in the [MedicalCentre.csv](https://github.com/RimTouny/Predictive-Analysis-for-Patient-Appointment-Attendance-in-a-Medical-Center/files/13894014/MedicalCentre.csv)
 er. This analysis was conducted as part of a Data Science course in my master's program at the University of Ottawa 2023.
 
